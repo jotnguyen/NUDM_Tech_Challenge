@@ -1,0 +1,162 @@
+category,indicator,year_range,description
+demography,female-population,2011-2015,Female Chicago residents
+demography,male-population,2011-2015,Male Chicago residents
+demography,non-hispanic-white,2011-2015,Non-Hispanic White Chicago  residents
+demography,hispanic-or-latino,2011-2015,Hispanic or Latino Chicago residents
+demography,non-hispanic-african-american-or-black,2011-2015,Non-Hispanic African American or Black Chicago residents
+demography,non-hispanic-asian-or-pacific-islander,2011-2015,Non-Hispanic Asian or Pacific Islander Chicago residents
+demography,total-population,2011-2015,Chicago residents
+demography,male-population,2011-2015,Male Chicago residents
+clinical-care,colorectal-cancer-screening,2014-2016,Adults aged 50 -75 years who have received a colorectal screening per guidelines
+clinical-care,health-care-satisfaction,,
+clinical-care,hiv-viral-suppression,,
+clinical-care,cervical-cancer-screening,2014-2016,Women aged 21-65 years who have had a Pap test within in the past three years
+clinical-care,preventable-hospitalizations,,
+clinical-care,adult-flu-vaccine,,
+clinical-care,breast-cancer-screening,2014-2016,Women aged 50 -74 years who have had a mammogram in the past two years
+clinical-care,children-aged-19-35-months-with-up-to-date-immunizations,,
+clinical-care,hpv-vaccination,,
+clinical-care,received-needed-care,,
+clinical-care,early-intervention-services,,
+clinical-care,engagement-in-hiv-care,2010-2010,People living with HIV who have had at least one medical visit
+clinical-care,prenatal-care-in-first-trimester,2010-2014,Mothers initiating prenatal care in the first three months of pregnancy
+clinical-care,no-health-insurance,2011-2015,People with no health insurance coverage
+clinical-care,annual-dental-cleaning,,
+clinical-care,dental-care-emergencies,,
+clinical-care,early-and-adequate-prenatal-care,2010-2014,Mothers receiving adequate prenatal care according to the Adequacy of Prenatal Care Utilization (APNCU) Index
+clinical-care,school-based-health-services---dental,,
+clinical-care,school-based-health-services---vision,,
+clinical-care,school-based-health-services---sti-screening,,
+clinical-care,avoidable-ed-visits,,
+clinical-care,primary-care-provider,2014-2016,Adults who have someone they think of as their personal healthcare provider
+clinical-care,routine-checkup,2014-2016,Adults who have received a routine check up in the past year 
+social-and-economic-factors,violent-crime-in-public-spaces,2010-2010,Crimes involving a firearm that occur outdoors 
+social-and-economic-factors,neighborhood-safety,,
+social-and-economic-factors,violent-crime,2010-2010,Crimes related to violence
+social-and-economic-factors,bullying,,
+social-and-economic-factors,school-fights,,
+social-and-economic-factors,school-safety,,
+social-and-economic-factors,food-access,2013-2013,Low income low access residents
+social-and-economic-factors,income-diversity,2010-2010,Probability that two people picked at random will have a different income bracket
+social-and-economic-factors,food-stamps-snap,2011-2015,Households receiving food assistance
+social-and-economic-factors,median-household-income,2011-2015,The mid-point value of household incomes
+social-and-economic-factors,per-capita-income,2011-2015,The average income earned per person
+social-and-economic-factors,child-poverty,2011-2015,Children aged under 18 whose household income is below the poverty level
+social-and-economic-factors,household-poverty,2011-2015,Households whose income is below the poverty level
+social-and-economic-factors,individual-poverty,2011-2015,People living below the poverty level
+social-and-economic-factors,early-childhood-education,,
+social-and-economic-factors,high-school-graduation,2011-2015,Adults aged 25 years and older with a high school diploma or equivalency
+social-and-economic-factors,college-graduation-or-more,,
+social-and-economic-factors,no-high-school-graduation,2011-2015,Adults aged 25 years and older without a high school diploma or equivalency
+social-and-economic-factors,school-attendance,,
+social-and-economic-factors,suspensions,,
+social-and-economic-factors,limited-english-proficiency,2011-2015,"Foreign born population aged 5 years or older who speak English less than ""very well"""
+social-and-economic-factors,single-parent-households,2011-2015,Children aged 18 years and under who live with one parent
+social-and-economic-factors,grandparents-raising-grandchildren,2011-2015,People with primary responsibility for raising their minor grandchildren
+social-and-economic-factors,seniors-living-alone,2011-2015,Adults aged 65 and older who live alone
+social-and-economic-factors,foreign-born,2011-2015,People who are not U.S. citizens at birth
+social-and-economic-factors,unemployment,2011-2015,Civilian population aged 16 years and older who were unemployed
+mortality,opioid-overdose,2015-2015,
+mortality,suicide,2010-2014,People who died by suicide
+mortality,drug-overdose-deaths,2010-2014,"People who died due to accidental, intentional, or undetermined intent drug overdose"
+mortality,drug-induced-deaths,2010-2014,People for whom drugs were the underlying cause of death
+mortality,chronic-liver-disease-and-cirrhosis-deaths,2010-2014,People who died due to chronic liver disease and cirrhosis
+mortality,alcohol-induced-deaths,2010-2014,People who died due to alcohol related causes
+mortality,opioid-related-overdose-deaths,2015-2015,People who died from an opioid-related drug overdose
+mortality,cancer-deaths,2010-2014,People who died due to cancer
+mortality,lung-cancer-deaths,2010-2014,People who died due to lung cancer
+mortality,heart-disease-deaths,2010-2014,People who died due to heart disease
+mortality,diabetes-deaths,2010-2014,People who died due to diabetes
+mortality,coronary-heart-disease-deaths,2010-2014,People who died due to coronary heart disease
+mortality,colorectal-cancer-deaths,2010-2014,People who died due to colorectal cancer
+mortality,chronic-lower-respiratory-disease-deaths,2010-2014,People who died due to chronic lower respiratory disease
+mortality,alzheimers-disease-deaths,2010-2014,
+mortality,female-breast-cancer-deaths,2010-2014,Females who died due to breast cancer
+mortality,diet-related-deaths,2010-2014,People who died due to nutrition and obesity related causes
+mortality,stroke-deaths,2010-2014,People who died due to stroke
+mortality,tobacco-related-deaths,2010-2014,People who died due to tobacco-related causes
+mortality,prostate-cancer-deaths,2010-2014,Males who died due to prostate cancer
+mortality,nephritis-nephrotic-syndrome-and-nephrosis-deaths,2010-2014,
+mortality,cervical-cancer-deaths,2010-2014,Females who died due to cervical cancer
+mortality,traffic-crash-fatalities,,
+mortality,firearm-related-homicides-by-injury-location,2010-2014,Community area of occurrence for firearm-related homicides
+mortality,motor-vehicle-crash-deaths,2011-2015,People who died due to injuries sustained during a motor vehicle crash
+mortality,injury-deaths,2010-2014,People who died due to any injury
+mortality,homicides,2010-2014,People who died due to homicide
+mortality,firearm-related-homicides,2010-2014,People who died due to firearm related homicide
+mortality,accidents,2010-2014,People who died due to an unintentional injury
+mortality,infant-mortality,2010-2014,Deaths to infants aged under one year
+mortality,influenza-and-pneumonia-deaths,2010-2014,People who died due to influenza or pneumonia
+mortality,years-of-potential-life-lost-(ypll),2010-2014,
+mortality,life-expectancy,1990-1990,The average number of years a person may expect to live
+morbidity,diabetes-related-lower-extremity-amputation-hospitalizations,,
+morbidity,female-breast-cancer-incidence,2009-2013,Females diagnosed with invasive and in situ breast cancer
+morbidity,colorectal-cancer-incidence,2009-2013,People diagnosed with invasive colorectal cancer
+morbidity,prostate-cancer-incidence,2009-2013,People diagnosed with invasive prostate cancer
+morbidity,lung-cancer-incidence,,
+morbidity,lung-cancer-incidence,,
+morbidity,late-stage-female-breast-cancer-incidence,2009-2013,Females diagnosed with invasive late stage breast cancer
+morbidity,child-obesity,2010-2011,Students with body mass index (BMI) greater than the 95th percentile
+morbidity,asthma,2014-2016,Adults who have been diagnosed with asthma
+morbidity,diabetes,2014-2016,Adults diagnosed with diabetes (excluding gestational and pre-diabetes) 
+morbidity,hypertension,2014-2016,Adults diagnosed with high blood pressure
+morbidity,diabetes-related-hospitalizations,,
+morbidity,adult-obesity,2014-2016,Adults with a body mass index (BMI) of 30 or greater
+morbidity,asthma-ed-visits-(0-4-years),,
+morbidity,asthma-ed-visits-(0-18-years),,
+morbidity,asthma-ed-visits-(65+-years),,
+morbidity,cancer-incidence,2004-2008,People with diagnosed incident cases of cancer
+morbidity,cervical-cancer-incidence,2009-2013,Females diagnosed with invasive cervical cancer
+morbidity,schizophrenic-disorder-hospitalizations,,
+morbidity,serious-psychological-distress,,
+morbidity,youth-depression,,
+morbidity,youth-suicide-attempts,,
+morbidity,drug-related-hospitalizations,,
+morbidity,alcohol-related-hospitalizations,,
+morbidity,behavioral-health-hospitalizations,,
+morbidity,behavioral-health-treatment,,
+morbidity,mood-and-depressive-disorder-hospitalizations,,
+morbidity,crude-birth-rate,2010-2014,Births to Chicago residents
+morbidity,general-fertility-rate,2010-2014,Live births to women aged 15-44 years
+morbidity,total-fertility-rate,2010-2014,"The number of children who would be born per 1,000 women if they were to pass through their childbearing years experiencing the same age-specific birth rate"
+morbidity,twin-birth-rate,2010-2014,Births where two babies were delivered
+morbidity,very-low-birthweight,2010-2014,Birthweight less than 1500 grams
+morbidity,lead-poisoning,2014-2014,Children with a blood lead level above 6 mcg/dL
+morbidity,very-low-birthweight,2010-2014,Birthweight less than 1500 grams
+morbidity,cesarean-delivery,2010-2014,"Cesarean deliveries among full-term, singleton, vertex presentation, and no prior cesarean births"
+morbidity,mean-age-at-first-birth,2010-2014,Average age of first time mothers
+morbidity,preterm-births,2010-2014,Babies born before 37 weeks gestation
+morbidity,hiv-incidence,2010-2010,People diagnosed with HIV during the year of interest
+morbidity,linkage-to-hiv-care,2013-2013,Newly diagnosed people linked to medical care within 3 months of diagnosis
+morbidity,tuberculosis,2010-2010,People diagnosed with active tuberculosis disease
+morbidity,varicella,,
+morbidity,chlamydia,2010-2010,People diagnosed with chlamydia 
+morbidity,gonorrhea,2010-2010,People diagnosed with gonorrhea 
+morbidity,hiv-prevalence,2010-2010,People living with HIV
+morbidity,pertussis,,
+morbidity,syphilis,2010-2010,People diagnosed with primary and secondary syphilis
+morbidity,have-a-disability,2011-2015,People with limitations in areas of functioning and self-care
+morbidity,overall-health-status,2014-2016,"Adults whose overall health is good, very good, or excellent"
+morbidity,non-fatal-shootings,2010-2010,Shootings where the victim survived
+morbidity,sexual-assault,2010-2010,Any sexual act performed against someone's will or without consent
+morbidity,serious-traffic-crash-injuries,,
+physical-environment,vacant-housing,2011-2015,Number of vacant housing units
+physical-environment,crowded-housing,2011-2015,Number of housing units with more than one person per room
+physical-environment,active-transportation,2011-2015,"People who walk, bike, or take public transportation to commute to work "
+physical-environment,permanent-supportive-housing,,
+physical-environment,severe-housing-cost-burden,2011-2015,Households that spend 35% or more of their income on housing costs
+health-behaviors,prescription-opiate-misuse,,
+health-behaviors,youth-binge-drinking,,
+health-behaviors,adult-binge-drinking,,
+health-behaviors,smoking-during-pregnancy,2010-2014,Births where the mother smoked any cigarettes during pregnancy
+health-behaviors,adult-smoking,2014-2016,Adults who smoke every day or some days
+health-behaviors,youth-smoking,,
+health-behaviors,adult-e-cigarette-use,,
+health-behaviors,youth-fruit-and-vegetable-servings,,
+health-behaviors,youth-soda-consumption,,
+health-behaviors,youth-physical-activity,,
+health-behaviors,adult-fruit-and-vegetable-servings,2014-2016,Adults who consumed five or more servings of fruits and vegetables daily
+health-behaviors,adult-physical-inactivity,2014-2016,Adults who did not participate in any physical activity or exercise in the past month
+health-behaviors,adult-soda-consumption,,
+health-behaviors,teen-birth-rate,2010-2014,Births to mothers aged 15-19 years
+health-behaviors,youth-condom-use,,
