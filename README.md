@@ -1,7 +1,7 @@
 # NUDM Tech Challenge
 presented by
 
-<img src="resources/bounteous.png" alt="drawing" width="250"/>
+<img src="images/bounteous.png" alt="drawing" width="250"/>
 
 Guidelines and data for the Northwestern University Dance Marathon Tech Challenge, in partnership with Bounteous
 
@@ -23,7 +23,7 @@ Participants are free to pursue solutions in whatever format they wish! Ideas an
 
 # Rubric:
 
-![](resources/rubric.png)
+![](images/rubric.png)
 
 # CIS of Chicago 
 
