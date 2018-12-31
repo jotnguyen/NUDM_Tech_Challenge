@@ -1,7 +1,7 @@
 # NUDM Tech Challenge
 presented by
-<img src="resources/bounteous.png" alt="drawing" width="300"/>
 
+<img src="resources/bounteous.png" alt="drawing" width="250"/>
 
 Guidelines and data for the Northwestern University Dance Marathon Tech Challenge, in partnership with Bounteous
 
@@ -19,34 +19,75 @@ Final Presentations: Friday 2/1/18
 
 3. CIS of Chicago is always looking for better ways to improve graduation rates in CPS schools. Develop your own prompt and answer it!
 
-Rubric:
+Participants are free to pursue solutions in whatever format they wish! Ideas and resources for getting started are provided below.
+
+# Rubric:
 
 ![](resources/rubric.png)
 
+# CIS of Chicago 
+
+https://www.cisofchicago.org/
+
+Communities In Schools (CIS) of Chicago works to lower dropout rates in Chicago Public Schools. (CPS) Their programs work on 4 key areas:
+
+1. Arts
+2. College and Career Preparation
+3. Health
+4. Mental Health and Wellness
+
+For more on how CIS operates within schools:
+
+https://www.cisofchicago.org/big-ideas/
+
+https://www.cisofchicago.org/key-programs/
+
 # Data Resources:
 
-There are two types of data relevant to CPS schools: School specific data and data on the surrounding neighborhood.
+There are two types of data relevant to CPS schools: School specific data and data on the surrounding neighborhood. School data will tell you about the performance of the school via test scores and other performance metrics. Neighborhood data will tell you about the area that the school is located in. This is relevant because schools largely draw from their surrounding neighborhoods.
 
-Within CPS Schools sheet we have listed every CPS school and their associated school id, neighborhood, affiliation with CIS of Chicago in addition to other general info. This sheet was designed as a starting point
+Within **CPS Schools sheet** we have listed every CPS school, its associated school id, neighborhood, affiliation with CIS of Chicago in addition to other general info. This sheet was designed as a starting point
 for aggregating the data that you wish to collect.
 
-Prepared "data_by_neighborhood":
-We collected data from the Chicago Health Atlas 1.0 API (https://chicagohealth.herokuapp.com/apidoc/1.0.html) and put it into csv files. The data in this folder represents a subset of the total data on the Atlas. What we do have is segmented by neighborhood under the column 'location'
+**Prepared "Neighborhood Data":**
 
-School Specific Data (join to CPS School sheet based on School ID):
-https://www.cps.edu/SchoolData/Pages/SchoolData.aspx
+We collected data from the Chicago Health Atlas 1.0 API (https://chicagohealth.herokuapp.com/apidoc/1.0.html) and put it into csv files. The data in this folder represents a subset of the total data in the Atlas, so if you would like more detail you should use the API. What we do have is segmented by neighborhood under the column 'location' so it can be joined to the CPS School sheet with a simple vlookup or index/match function.
+
+The data is organized into categories. (demography, clinical-care, etc.) Within these categories we list indicators (columns) by the different metrics (percent, crude_rate, number, ave_annual_number) used to record them. Some metrics are not applicable for certain indicators, so not all of the data is filled in. 
+
+Percent - cases per 100
+
+Crude Rate - cases per 100,000
+
+Number - cases
+
+Ave Annual Number - average number of annual cases
+
+The data recorded has associated dates and descriptions which are detailed in the indicator_info.csv
+
+**School Specific Data (join to CPS Schools sheet based on School ID):**
+
+https://www.cps.edu/SchoolData/Pages/SchoolData.aspx (Summarized in "Summary CPS Data.pdf")
+
 http://guides.lib.uchicago.edu/education/statistics
 
-Other Neighborhood Specific Data (join to CPS School sheet based on Neighborhood):
+**Other Neighborhood Specific Data (join to CPS Schools sheet based on Neighborhood):**
+
 https://data.cityofchicago.org/
 
 # Mobile App Developer Resources:
 
 Getting started in React Native - https://expo.io/tools
+
 Getting started in Ionic - https://ionicframework.com/
 
 # Other Resources
 
 Tableau for students - https://www.tableau.com/academic/students
+
 Microsoft Office for students - https://msoffice.northwestern.edu
+
+Postman (for API testing) - https://www.getpostman.com/apps
+
+Requests (for API's in Python scripts) - https://www.pythonforbeginners.com/requests/using-requests-in-python
 
