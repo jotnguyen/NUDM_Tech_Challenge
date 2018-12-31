@@ -1,8 +1,7 @@
 # NUDM Tech Challenge
 Guidelines and data for the Northwestern University Dance Marathon Tech Challenge, in partnership with Bounteous
 
-![](resources/bounteous.png =100x)
-<img src="resources/bounteous.png" alt="drawing" width="200"/>
+<img src="resources/bounteous.png" alt="drawing" width="300"/>
 
 The NUDM Tech Challenge is a 2 week long hack-a-thon where students aim to solve 1 of our 3 problem statements. One winner will be chosen and $2000 will be allocated to the NUDM fundraising pages of their choice.
 
