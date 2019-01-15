@@ -1,5 +1,6 @@
 # NUDM Tech Challenge
 presented by
+
 <img src="images/bounteous.png" alt="drawing" width="250"/>
 
 SIGN UP HERE: http://go.nudm.org/techsignup
@@ -28,7 +29,7 @@ Participants are free to pursue solutions in whatever format they wish! Ideas an
 
 ![](images/rubric.png)
 
-# CIS of Chicago 
+# CIS of Chicago:
 
 https://www.cisofchicago.org/
 
@@ -84,7 +85,7 @@ Getting started in React Native - https://expo.io/tools
 
 Getting started in Ionic - https://ionicframework.com/
 
-# Other Resources
+# Other Resources:
 
 Tableau for students - https://www.tableau.com/academic/students
 
