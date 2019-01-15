@@ -1,7 +1,8 @@
 # NUDM Tech Challenge
 presented by
-
 <img src="images/bounteous.png" alt="drawing" width="250"/>
+
+SIGN UP HERE: go.nudm.org/techsignup
 
 Guidelines and data for the Northwestern University Dance Marathon Tech Challenge, in partnership with Bounteous
 
