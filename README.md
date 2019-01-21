@@ -38,7 +38,7 @@ Participants are free to pursue solutions in whatever format they wish! Ideas an
 
 Instructions are provided in the following Google Drive. Please also submit your work to this Drive!
 
-https://drive.google.com/drive/folders/1rbYFloQNYKpmpYNkpEbBfoKK3wkbjcaG?usp=sharing
+https://drive.google.com/open?id=1jyzgY8YqgbSwkuutfAcMLXgOYmZmXBhg
 
 # CIS of Chicago:
 
