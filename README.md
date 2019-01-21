@@ -3,17 +3,22 @@ presented by
 
 <img src="images/bounteous.png" alt="drawing" width="250"/>
 
+Ask questions here: https://piazza.com/class/jr17vig4znk46u
+
 SIGN UP HERE: http://go.nudm.org/techsignup
+Any Northwestern student can sign up! Also - don't worry about indicating your team, you will do that when you turn in your work!
 
 Guidelines and data for the Northwestern University Dance Marathon Tech Challenge, in partnership with Bounteous
 
-The NUDM Tech Challenge is a 2 week long hack-a-thon where students aim to solve 1 of our 3 problem statements. Students maybe compete in teams of up to 3 people. One winning team will be chosen and $2000 will be allocated to the NUDM team fundraising pages of their choice.
+The NUDM Tech Challenge is a 2 week long hack-a-thon where students aim to solve 1 of our 3 problem statements. Students may compete in teams of up to 3 people. 1st, 2nd and 3rd, place teams will be chosen and $1000, $600 and $400 will be allocated to the NUDM team fundraising pages of their choice.
 
-Kickoff: Monday 1/21/18 5pm-6pm
+Kickoff: Monday 1/21/18
 
-Bounteous Office Hours: Monday 1/28/18 5pm-8pm
+Bounteous Office Hours: Monday 1/28/19 5pm-8pm
 
-Final Presentations: Friday 2/1/18 12pm-2pm
+Submission Deadline: Thursday 1/31/19 6pm
+
+Final Presentations: Friday 2/1/19 12pm-2pm
 
 # Problem Statements:
 
@@ -28,6 +33,12 @@ Participants are free to pursue solutions in whatever format they wish! Ideas an
 # Rubric:
 
 ![](images/rubric.png)
+
+# Submitting Work
+
+Instructions are provided in the following Google Drive. Please also submit your work to this Drive!
+
+https://drive.google.com/drive/folders/1rbYFloQNYKpmpYNkpEbBfoKK3wkbjcaG?usp=sharing
 
 # CIS of Chicago:
 
