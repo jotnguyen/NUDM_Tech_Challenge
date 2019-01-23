@@ -12,6 +12,7 @@
     "papaparse": "^4.6.3",
     "react": "16.6.3",
     "react-native": "0.57.8",
+    "react-native-fs": "2.0.1-rc.2",
     "react-navigation": "^3.0.9"
   },
   "devDependencies": {
