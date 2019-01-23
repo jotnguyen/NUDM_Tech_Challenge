@@ -1,49 +1,48 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
-
 import React, {Component} from 'react';
-import {Platform, StyleSheet, Text, View} from 'react-native';
+import {Text, View , Button} from 'react-native';
+import * as d3 from 'd3';
 
-const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
-  android:
-    'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
-});
-
-type Props = {};
-export default class App extends Component<Props> {
+class HelloReactNative extends Component {
+    constructor(props){
+      super(props);
+      this.state = {
+	neighborhood: "lmao"
+      }
+    }
+    parseSQL = () => {
+      //console.log(hoodDate);
+      // d3.csvParse("/neighborhood_zipcodes.csv").
+      // 	then((data) => {
+      // 	  console.log('test')
+      // 	  this.setState({neighborhood: data})
+      // 	}).
+      // 	catch((err) => {console.log(err)});
+      
+    }
+  showSchools = () => {
+    // return (<li> test </li>)
+  }
   render() {
     return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to React Native!</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
-        <Text style={styles.instructions}>{instructions}</Text>
+      <View>
+        <Text>
+          If you like React, you'll also like React Native.
+        </Text>
+        <Text>
+          Instead of 'div' and 'span', you'll use native components
+          like 'View' and 'Text'.
+        </Text>
+	
+	<Button
+          onPress={this.parseSQL}
+          title="grab schools"
+	/>
+	<Text>
+	{this.state.neighborhood}
+	</Text>
       </View>
     );
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
+export default HelloReactNative;
